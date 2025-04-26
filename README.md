@@ -11,11 +11,11 @@ Este é um projeto simples de gerador de senhas aleatórias, desenvolvido com HT
 
 * Inclusão de:
 
-** Letras maiúsculas
-** Letras minúsculas
-** Números
-** Símbolos
-** Botão para copiar a senha gerada
+  * Letras maiúsculas
+  * Letras minúsculas
+  * Números
+  * Símbolos
+  * Botão para copiar a senha gerada
 
 🛠️ Tecnologias Utilizadas
 HTML5
