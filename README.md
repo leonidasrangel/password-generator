@@ -24,7 +24,11 @@ JavaScript (puro)
 
 📁 Como usar localmente
 Clone o repositório:
+
 git clone https://github.com/leonidasrangel/password-generator.git
+
 Acesse a pasta do projeto:
+
 cd password-generator
+
 Abra o arquivo index.html no navegador.
