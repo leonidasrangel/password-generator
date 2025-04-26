@@ -22,7 +22,9 @@ HTML5
 CSS3
 JavaScript (puro)
 
-📁 Como usar localmente
+## 🚀 Como rodar o projeto localmente
+
+```bash
 # Clone o repositório
 git clone https://github.com/leonidasrangel/password-generator.git
 
@@ -30,4 +32,5 @@ git clone https://github.com/leonidasrangel/password-generator.git
 cd password-generator
 
 # Abra o arquivo index.html no navegador
+
 
