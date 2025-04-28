@@ -67,5 +67,5 @@ document.querySelector('#generate').addEventListener('click', function() {
 });
 document.querySelector('#copy').addEventListener('click', function(){
     navigator.clipboard.writeText(document.querySelector('#password').textContent);
-    message('Senga copiada com sucesso', 'success');
+    message('Senha copiada com sucesso', 'success');
 });
